@@ -1,10 +1,10 @@
-gonative-ios
+LCS GroveTime
 ============
 
-This is the native IOS code used by https://www.gonative.io/. It allows the creation of apps from existing mobile-optimized websites.
+This is the LCS GroveTime sign-up app built for students in Lakefield College School, made by Maxwell Lu.
 
-How to use
-------------
-Open project in Xcode. Edit appConfig.json as appropriate.
+How to build yourselves
+----------------------
 
-Licensing information available at https://gonative.io/.
+Please clone this repository in Xcode to run on iOS devices.
+Please download the release in "Release" panel to install on Android devices.
